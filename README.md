@@ -28,9 +28,28 @@ Input > Translation > Canonical Model > Adjustment Engine > Output
 ![DANI'S Banner](divider4GH.png)
 
 
-### Tech Stack
+## Tech Stack
 
-`FastAPI` | `Python` | `Pydantic` | `HTML/CSS/JS` | `GitHub Pages` | `Ravelry API`
+**Languages & Frameworks**
+Python | FastAPI | Pydantic | HTML | CSS | JavaScript
+
+**Data & APIs**
+JSON | Google Sheets API | Ravelry API | REST APIs
+
+**Hosting & Deployment**
+GitHub Pages | Git | GitHub Actions
+
+**Analytics & Monetization**
+Google Analytics | Google AdSense | Amazon Associates
+
+**Automation & AI**
+n8n | Telegram Bot API | Groq
+
+**Project Management & Productivity**
+ClickUp | TimeCamp | Google Workspace
+
+**Church Tech & Consulting**
+Google Workspace Administration | Google Sites | Website Development
 
 
 ![DANI'S Banner](divider4GH.png)
