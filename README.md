@@ -2,7 +2,7 @@
 
 **Prayerful Problem Solver** -- Freelance Virtual Ministry Assistant -- Self-Taught Developer
 
-30 years of crochet expertise and a passion for solving real problems with technology. My work lives at the intersection of traditional craft and modern tools -- building platforms that serve the crochet community and the churches I support.
+30+ years in yarn craft with deep roots in crochet and a passion for solving real problems with technology. My work lives at the intersection of traditional craft and modern tools -- building platforms that serve the crochet community and the churches I support.
 
 
 ![DANI'S Banner](divider4GH.png)
@@ -23,8 +23,7 @@ Input > Translation > Canonical Model > Adjustment Engine > Output
 - Multiple output formats (PDF, condensed, SVG chart, slideshow)
 - Ravelry API integration for yarn intelligence
 
-**[Interactive Crochet Glossary](https://this4dani.com/glossary.html)** -- 255+ searchable, filterable crochet terms with US/UK conversions, difficulty ratings, and stitch relationships. Includes flashcard study mode.
-
+**[Interactive Crochet Glossary](https://this4dani.com/glossary.html)** -- Yarn Craft Terminology Database -- Building the first comprehensive, open, API-accessible database of yarn craft terminology. Starting from a crochet foundation and expanding across all fiber arts disciplines. Structured data with US/UK translations, categories, and educational tools.
 
 ![DANI'S Banner](divider4GH.png)
 
@@ -37,8 +36,9 @@ Input > Translation > Canonical Model > Adjustment Engine > Output
 ![DANI'S Banner](divider4GH.png)
 
 
-### Looking For
+## Looking For
 
+- **Contributors to the Yarn Craft Terminology Database** — especially knitters, weavers, and embroiderers who want to help build the first open, comprehensive terminology resource for all yarn crafts
 - **Collaborators** who share a love for craft + code
 - **Beta testers** for the CrochetAdjust MVP
 - **Feedback** on the glossary and pattern tools
@@ -54,6 +54,7 @@ Input > Translation > Canonical Model > Adjustment Engine > Output
 - [Pinterest](https://pinterest.com/this4dani)
 - [Ravelry](https://ravelry.com/people/This4dani)
 - [Linq](https://linqapp.com/this4dani)
+
 
 
 ![DANI'S Footer](Footer4GH.png)
